@@ -65,9 +65,6 @@ let primeNumbers = [2,3,5];
 let numbers = evenNumbers.concat(oddNumbers, primeNumbers);
 console.log (numbers);
 
-ABCD
-123
-
 
 
 
